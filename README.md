@@ -1,2 +1,2 @@
 # My-CV
-Complete information about me
+Some information about me :)
