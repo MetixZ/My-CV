@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.line {
+  width: 70%;
+  border: 2px solid black;
+  background: orange;
+  margin: 20px 30px 10px 20px;
+}
+.my-photo img{
+    border-radius: 50px;
+    width: 10%;
+}
+.container{
+  margin-left: 20px;
+}
+.container h1{
+  font-size: 0.5 rem;
+}
+.container h2{
+  margin-top: 10px;
+  color: green;
+}
+.container h3{
+  margin-top: 5px;
+  color: blue;
+}
+.container h4{
+  margin-top: 5px;
+}
